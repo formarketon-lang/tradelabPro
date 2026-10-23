@@ -729,5 +729,5 @@ elif page == "Trading Journal":
 
         qty = st.number_input(
             "Quantity",
-            min_value=1,
+            min_value=1,)
   

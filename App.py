@@ -1,4 +1,4 @@
-import streamlit as st
+ streamlit as st
 import pandas as pd
 import requests
 from datetime import date, datetime
@@ -729,5 +729,4 @@ elif page == "Trading Journal":
 
         qty = st.number_input(
             "Quantity",
-            min_value=1,)
-  
+            min_value=1,) streamli
